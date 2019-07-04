@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+## Check List
+
+- [ ] confirmed?
+- [ ] jira ticket
+- [ ] auditor
+- [ ] QA steps to close it
+
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
