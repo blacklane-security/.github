@@ -1,8 +1,8 @@
 ---
-name: Issue template
-about: regular issue template
+name: Security Issue
+about: security issue template
 title: ''
-labels: ''
+labels: security
 assignees: ''
 
 ---
